@@ -31,3 +31,5 @@ userInput.addEventListener('click' , (event)=>{
 })
 
 console.log("Abhinav Mishra") ;
+
+console.log("Bug is fixed") ;
